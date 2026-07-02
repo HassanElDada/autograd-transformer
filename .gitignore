@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Test / coverage artifacts
+.pytest_cache/
+.coverage
+
+# OS / editor cruft
+.DS_Store
+.vscode/
+.idea/
